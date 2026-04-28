@@ -1,0 +1,6 @@
+{
+  "name": "FairPlay Soccer Coach",
+  "description": "A smart substitution manager for youth soccer, helping coaches rotate players fairly and track playing time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
